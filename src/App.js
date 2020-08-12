@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import HelloWorld from './components/HelloWorld.functional';
-// import HelloWorld from './components/HelloWorld.class';
+// import Counter from './components/Counter.functional';
+import Counter from './components/Counter.class';
 
 function App() {
   return (
     <div className="App">
-      <HelloWorld name={"Steven"}/>
+        <Counter/>
     </div>
   );
 }
