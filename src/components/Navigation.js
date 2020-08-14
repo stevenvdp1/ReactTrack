@@ -12,7 +12,7 @@ function Navigation() {
             <span style={{ fontSize: 'large' }} onClick={() => setShowMenu(!showMenu)}>
                 <FontAwesomeIcon icon={faBars} />
             </span>
-            {showMenu && <SideMenu setShowMenu={()=>setShowMenu(!showMenu)}/>}
+            {showMenu && <SideMenu closeMenu={()=>setShowMenu(false)}/>}
         </nav>
     )
 }

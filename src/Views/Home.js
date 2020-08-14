@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Body(){
+function Home(){
     return(
         <div>
-            content
+            HomePage
         </div>
     )
 }
 
-export default Body
+export default Home
