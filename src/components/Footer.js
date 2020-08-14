@@ -7,11 +7,9 @@ const styles = {
         backgroundColor:'lightGrey',
         display:'flex',
         alignItems:'center',
-        alignContent:'flex-end'
+        justifyContent:'center'
     },
-    text:{
-        margin:'auto'
-    }
+    text:{}
 }
 
 function Footer(){

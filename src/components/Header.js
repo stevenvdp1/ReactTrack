@@ -1,4 +1,5 @@
 import React from 'react'
+import Navigation from './Navigation'
 
 const styles = {
     container:{
@@ -6,16 +7,17 @@ const styles = {
         height:'50px',
         display:'flex',
         alignItems:'center',
+        justifyContent:'space-between',
+        padding:'0px 8px'
     },
-    text:{
-        marginLeft:'5px'
-    }
+    text:{}
 }
 
 function Header(){
     return(
         <header style={styles.container}>
             <span style={styles.text}>ExampleApp</span>
+            <Navigation/>
         </header>
     )
 }
