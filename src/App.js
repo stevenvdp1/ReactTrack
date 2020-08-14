@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-// import Counter from './components/Counter.functional';
-import Counter from './components/Counter.class';
+// import Counter from './Components/Counter.functional';
+import Counter from './Components/Counter.class';
 
 function App() {
   return (
