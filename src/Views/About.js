@@ -1,8 +1,14 @@
 import React from 'react'
 
-function About(){
-    return(
-        <div>
+const styles = {
+    container: {
+        alignSelf: 'center'
+    }
+}
+
+function About() {
+    return (
+        <div style={styles.container}>
             React tutorial by Steven Van de Poel
         </div>
     )
