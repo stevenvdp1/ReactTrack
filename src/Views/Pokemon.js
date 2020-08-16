@@ -1,10 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useParams } from 'react-router-dom';
 import PokemonCard from '../Components/PokemonCard';
+import { useFetch } from '../Hooks/HttpRequests';
 
 const styles = {
     container: {
-        flexGrow:1
+        flexGrow: 1
     }
 }
 
@@ -12,26 +13,7 @@ function Pokemon() {
     const { id } = useParams()
     const url = `http://localhost:1337/pokemon/${id}`
 
-    const [pokemon, setPokemon] = useState({ loading: false, data: null, error: false })
-    useEffect(() => {
-        setPokemon({ ...pokemon, loading: true })
-        fetch(url)
-            .then(res => res.json())
-            .then(data => {
-                setPokemon({
-                    loading: false,
-                    data: data,
-                    error: false
-                })
-            })
-            .catch(error => {
-                setPokemon({
-                    ...pokemon,
-                    loading: false,
-                    error: true
-                })
-            })
-    }, [url])
+    let pokemon = useFetch(url)
 
     let content = null
     if (pokemon.loading) {
@@ -41,7 +23,7 @@ function Pokemon() {
         content = <span>Error</span>
     }
     if (pokemon.data) {
-        content = <PokemonCard {...pokemon.data}/>
+        content = <PokemonCard {...pokemon.data} />
     }
 
     return (

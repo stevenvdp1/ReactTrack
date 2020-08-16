@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Sprite from '../Components/Sprite'
+import { useFetch } from '../Hooks/HttpRequests'
 
 const styles={
     container:{
@@ -12,26 +13,7 @@ const styles={
 function Home() {
     const url = 'http://localhost:1337/pokemon'
 
-    const [pokemon, setPokemon] = useState({ loading: false, data: null, error: false })
-    useEffect(() => {
-        setPokemon({ ...pokemon, loading: true })
-        fetch(url)
-            .then(res => res.json())
-            .then(data => {
-                setPokemon({
-                    loading: false,
-                    data: data,
-                    error: false
-                })
-            })
-            .catch(error => {
-                setPokemon({
-                    ...pokemon,
-                    loading: false,
-                    error: true
-                })
-            })
-    },[url])
+    let pokemon = useFetch(url)
 
     let content = null
     if (pokemon.loading) {

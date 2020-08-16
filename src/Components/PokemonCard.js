@@ -1,5 +1,4 @@
 import React from 'react';
-import Pokemon from '../Views/Pokemon';
 
 const styles = {
     container: {
