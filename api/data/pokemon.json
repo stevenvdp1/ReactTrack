@@ -1,0 +1,1061 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "url": "http://localhost:1337/pokemon/1/",
+      "sprite": "http://localhost:1337/sprites/1.png",
+      "name": "bulbasaur",
+      "info": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger."
+    },
+    {
+      "id": 2,
+      "url": "http://localhost:1337/pokemon/2/",
+      "sprite": "http://localhost:1337/sprites/2.png",
+      "name": "ivysaur",
+      "info": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+    },
+    {
+      "id": 3,
+      "url": "http://localhost:1337/pokemon/3/",
+      "sprite": "http://localhost:1337/sprites/3.png",
+      "name": "venusaur",
+      "info": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+    },
+    {
+      "id": 4,
+      "url": "http://localhost:1337/pokemon/4/",
+      "sprite": "http://localhost:1337/sprites/4.png",
+      "name": "charmander",
+      "info": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail."
+    },
+    {
+      "id": 5,
+      "url": "http://localhost:1337/pokemon/5/",
+      "sprite": "http://localhost:1337/sprites/5.png",
+      "name": "charmeleon",
+      "info": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+    },
+    {
+      "id": 6,
+      "url": "http://localhost:1337/pokemon/6/",
+      "sprite": "http://localhost:1337/sprites/6.png",
+      "name": "charizard",
+      "info": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+    },
+    {
+      "id": 7,
+      "url": "http://localhost:1337/pokemon/7/",
+      "sprite": "http://localhost:1337/sprites/7.png",
+      "name": "squirtle",
+      "info": "When it retracts its long neck into its shell, it squirts out water with vigorous force."
+    },
+    {
+      "id": 8,
+      "url": "http://localhost:1337/pokemon/8/",
+      "sprite": "http://localhost:1337/sprites/8.png",
+      "name": "wartortle",
+      "info": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old."
+    },
+    {
+      "id": 9,
+      "url": "http://localhost:1337/pokemon/9/",
+      "sprite": "http://localhost:1337/sprites/9.png",
+      "name": "blastoise",
+      "info": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell."
+    },
+    {
+      "id": 10,
+      "url": "http://localhost:1337/pokemon/10/",
+      "sprite": "http://localhost:1337/sprites/10.png",
+      "name": "caterpie",
+      "info": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+    },
+    {
+      "id": 11,
+      "url": "http://localhost:1337/pokemon/11/",
+      "sprite": "http://localhost:1337/sprites/11.png",
+      "name": "metapod",
+      "info": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack."
+    },
+    {
+      "id": 12,
+      "url": "http://localhost:1337/pokemon/12/",
+      "sprite": "http://localhost:1337/sprites/12.png",
+      "name": "butterfree",
+      "info": "In battle, it flaps its wings at great speed to release highly toxic dust into the air."
+    },
+    {
+      "id": 13,
+      "url": "http://localhost:1337/pokemon/13/",
+      "sprite": "http://localhost:1337/sprites/13.png",
+      "name": "weedle",
+      "info": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+    },
+    {
+      "id": 14,
+      "url": "http://localhost:1337/pokemon/14/",
+      "sprite": "http://localhost:1337/sprites/14.png",
+      "name": "kakuna",
+      "info": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    },
+    {
+      "id": 15,
+      "url": "http://localhost:1337/pokemon/15/",
+      "sprite": "http://localhost:1337/sprites/15.png",
+      "name": "beedrill",
+      "info": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
+    },
+    {
+      "id": 16,
+      "url": "http://localhost:1337/pokemon/16/",
+      "sprite": "http://localhost:1337/sprites/16.png",
+      "name": "pidgey",
+      "info": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+    },
+    {
+      "id": 17,
+      "url": "http://localhost:1337/pokemon/17/",
+      "sprite": "http://localhost:1337/sprites/17.png",
+      "name": "pidgeotto",
+      "info": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+    },
+    {
+      "id": 18,
+      "url": "http://localhost:1337/pokemon/18/",
+      "sprite": "http://localhost:1337/sprites/18.png",
+      "name": "pidgeot",
+      "info": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+    },
+    {
+      "id": 19,
+      "url": "http://localhost:1337/pokemon/19/",
+      "sprite": "http://localhost:1337/sprites/19.png",
+      "name": "rattata",
+      "info": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
+    },
+    {
+      "id": 20,
+      "url": "http://localhost:1337/pokemon/20/",
+      "sprite": "http://localhost:1337/sprites/20.png",
+      "name": "raticate",
+      "info": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+    },
+    {
+      "id": 21,
+      "url": "http://localhost:1337/pokemon/21/",
+      "sprite": "http://localhost:1337/sprites/21.png",
+      "name": "spearow",
+      "info": "Inept at flying high. However, it can fly around very fast to protect its territory."
+    },
+    {
+      "id": 22,
+      "url": "http://localhost:1337/pokemon/22/",
+      "sprite": "http://localhost:1337/sprites/22.png",
+      "name": "fearow",
+      "info": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+    },
+    {
+      "id": 23,
+      "url": "http://localhost:1337/pokemon/23/",
+      "sprite": "http://localhost:1337/sprites/23.png",
+      "name": "ekans",
+      "info": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+    },
+    {
+      "id": 24,
+      "url": "http://localhost:1337/pokemon/24/",
+      "sprite": "http://localhost:1337/sprites/24.png",
+      "name": "arbok",
+      "info": "The frightening patterns on its belly have been studied. Six variations have been confirmed."
+    },
+    {
+      "id": 25,
+      "url": "http://localhost:1337/pokemon/25/",
+      "sprite": "http://localhost:1337/sprites/25.png",
+      "name": "pikachu",
+      "info": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy."
+    },
+    {
+      "id": 26,
+      "url": "http://localhost:1337/pokemon/26/",
+      "sprite": "http://localhost:1337/sprites/26.png",
+      "name": "raichu",
+      "info": "Its long tail serves as a ground to protect itself from its own high-voltage power."
+    },
+    {
+      "id": 27,
+      "url": "http://localhost:1337/pokemon/27/",
+      "sprite": "http://localhost:1337/sprites/27.png",
+      "name": "sandshrew",
+      "info": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body."
+    },
+    {
+      "id": 28,
+      "url": "http://localhost:1337/pokemon/28/",
+      "sprite": "http://localhost:1337/sprites/28.png",
+      "name": "sandslash",
+      "info": "The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched."
+    },
+    {
+      "id": 29,
+      "url": "http://localhost:1337/pokemon/29/",
+      "sprite": "http://localhost:1337/sprites/29.png",
+      "name": "nidoran-f",
+      "info": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom."
+    },
+    {
+      "id": 30,
+      "url": "http://localhost:1337/pokemon/30/",
+      "sprite": "http://localhost:1337/sprites/30.png",
+      "name": "nidorina",
+      "info": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed."
+    },
+    {
+      "id": 31,
+      "url": "http://localhost:1337/pokemon/31/",
+      "sprite": "http://localhost:1337/sprites/31.png",
+      "name": "nidoqueen",
+      "info": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles."
+    },
+    {
+      "id": 32,
+      "url": "http://localhost:1337/pokemon/32/",
+      "sprite": "http://localhost:1337/sprites/32.png",
+      "name": "nidoran-m",
+      "info": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+    },
+    {
+      "id": 33,
+      "url": "http://localhost:1337/pokemon/33/",
+      "sprite": "http://localhost:1337/sprites/33.png",
+      "name": "nidorino",
+      "info": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out."
+    },
+    {
+      "id": 34,
+      "url": "http://localhost:1337/pokemon/34/",
+      "sprite": "http://localhost:1337/sprites/34.png",
+      "name": "nidoking",
+      "info": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+    },
+    {
+      "id": 35,
+      "url": "http://localhost:1337/pokemon/35/",
+      "sprite": "http://localhost:1337/sprites/35.png",
+      "name": "clefairy",
+      "info": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon."
+    },
+    {
+      "id": 36,
+      "url": "http://localhost:1337/pokemon/36/",
+      "sprite": "http://localhost:1337/sprites/36.png",
+      "name": "clefable",
+      "info": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people."
+    },
+    {
+      "id": 37,
+      "url": "http://localhost:1337/pokemon/37/",
+      "sprite": "http://localhost:1337/sprites/37.png",
+      "name": "vulpix",
+      "info": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+    },
+    {
+      "id": 38,
+      "url": "http://localhost:1337/pokemon/38/",
+      "sprite": "http://localhost:1337/sprites/38.png",
+      "name": "ninetales",
+      "info": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers."
+    },
+    {
+      "id": 39,
+      "url": "http://localhost:1337/pokemon/39/",
+      "sprite": "http://localhost:1337/sprites/39.png",
+      "name": "jigglypuff",
+      "info": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep."
+    },
+    {
+      "id": 40,
+      "url": "http://localhost:1337/pokemon/40/",
+      "sprite": "http://localhost:1337/sprites/40.png",
+      "name": "wigglytuff",
+      "info": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them."
+    },
+    {
+      "id": 41,
+      "url": "http://localhost:1337/pokemon/41/",
+      "sprite": "http://localhost:1337/sprites/41.png",
+      "name": "zubat",
+      "info": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way."
+    },
+    {
+      "id": 42,
+      "url": "http://localhost:1337/pokemon/42/",
+      "sprite": "http://localhost:1337/sprites/42.png",
+      "name": "golbat",
+      "info": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood."
+    },
+    {
+      "id": 43,
+      "url": "http://localhost:1337/pokemon/43/",
+      "sprite": "http://localhost:1337/sprites/43.png",
+      "name": "oddish",
+      "info": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+    },
+    {
+      "id": 44,
+      "url": "http://localhost:1337/pokemon/44/",
+      "sprite": "http://localhost:1337/sprites/44.png",
+      "name": "gloom",
+      "info": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles."
+    },
+    {
+      "id": 45,
+      "url": "http://localhost:1337/pokemon/45/",
+      "sprite": "http://localhost:1337/sprites/45.png",
+      "name": "vileplume",
+      "info": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+    },
+    {
+      "id": 46,
+      "url": "http://localhost:1337/pokemon/46/",
+      "sprite": "http://localhost:1337/sprites/46.png",
+      "name": "paras",
+      "info": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition."
+    },
+    {
+      "id": 47,
+      "url": "http://localhost:1337/pokemon/47/",
+      "sprite": "http://localhost:1337/sprites/47.png",
+      "name": "parasect",
+      "info": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking."
+    },
+    {
+      "id": 48,
+      "url": "http://localhost:1337/pokemon/48/",
+      "sprite": "http://localhost:1337/sprites/48.png",
+      "name": "venonat",
+      "info": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
+    },
+    {
+      "id": 49,
+      "url": "http://localhost:1337/pokemon/49/",
+      "sprite": "http://localhost:1337/sprites/49.png",
+      "name": "venomoth",
+      "info": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
+    },
+    {
+      "id": 50,
+      "url": "http://localhost:1337/pokemon/50/",
+      "sprite": "http://localhost:1337/sprites/50.png",
+      "name": "diglett",
+      "info": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+    },
+    {
+      "id": 51,
+      "url": "http://localhost:1337/pokemon/51/",
+      "sprite": "http://localhost:1337/sprites/51.png",
+      "name": "dugtrio",
+      "info": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+    },
+    {
+      "id": 52,
+      "url": "http://localhost:1337/pokemon/52/",
+      "sprite": "http://localhost:1337/sprites/52.png",
+      "name": "meowth",
+      "info": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
+    },
+    {
+      "id": 53,
+      "url": "http://localhost:1337/pokemon/53/",
+      "sprite": "http://localhost:1337/sprites/53.png",
+      "name": "persian",
+      "info": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed."
+    },
+    {
+      "id": 54,
+      "url": "http://localhost:1337/pokemon/54/",
+      "sprite": "http://localhost:1337/sprites/54.png",
+      "name": "psyduck",
+      "info": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while."
+    },
+    {
+      "id": 55,
+      "url": "http://localhost:1337/pokemon/55/",
+      "sprite": "http://localhost:1337/sprites/55.png",
+      "name": "golduck",
+      "info": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display."
+    },
+    {
+      "id": 56,
+      "url": "http://localhost:1337/pokemon/56/",
+      "sprite": "http://localhost:1337/sprites/56.png",
+      "name": "mankey",
+      "info": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything."
+    },
+    {
+      "id": 57,
+      "url": "http://localhost:1337/pokemon/57/",
+      "sprite": "http://localhost:1337/sprites/57.png",
+      "name": "primeape",
+      "info": "It stops being angry only when nobody else is around. To view this moment is very difficult."
+    },
+    {
+      "id": 58,
+      "url": "http://localhost:1337/pokemon/58/",
+      "sprite": "http://localhost:1337/sprites/58.png",
+      "name": "growlithe",
+      "info": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes."
+    },
+    {
+      "id": 59,
+      "url": "http://localhost:1337/pokemon/59/",
+      "sprite": "http://localhost:1337/sprites/59.png",
+      "name": "arcanine",
+      "info": "The sight of it running over 6,200 miles in a single day and night has captivated many people."
+    },
+    {
+      "id": 60,
+      "url": "http://localhost:1337/pokemon/60/",
+      "sprite": "http://localhost:1337/sprites/60.png",
+      "name": "poliwag",
+      "info": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin."
+    },
+    {
+      "id": 61,
+      "url": "http://localhost:1337/pokemon/61/",
+      "sprite": "http://localhost:1337/sprites/61.png",
+      "name": "poliwhirl",
+      "info": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep."
+    },
+    {
+      "id": 62,
+      "url": "http://localhost:1337/pokemon/62/",
+      "sprite": "http://localhost:1337/sprites/62.png",
+      "name": "poliwrath",
+      "info": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward."
+    },
+    {
+      "id": 63,
+      "url": "http://localhost:1337/pokemon/63/",
+      "sprite": "http://localhost:1337/sprites/63.png",
+      "name": "abra",
+      "info": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields."
+    },
+    {
+      "id": 64,
+      "url": "http://localhost:1337/pokemon/64/",
+      "sprite": "http://localhost:1337/sprites/64.png",
+      "name": "kadabra",
+      "info": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow."
+    },
+    {
+      "id": 65,
+      "url": "http://localhost:1337/pokemon/65/",
+      "sprite": "http://localhost:1337/sprites/65.png",
+      "name": "alakazam",
+      "info": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death."
+    },
+    {
+      "id": 66,
+      "url": "http://localhost:1337/pokemon/66/",
+      "sprite": "http://localhost:1337/sprites/66.png",
+      "name": "machop",
+      "info": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups."
+    },
+    {
+      "id": 67,
+      "url": "http://localhost:1337/pokemon/67/",
+      "sprite": "http://localhost:1337/sprites/67.png",
+      "name": "machoke",
+      "info": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
+    },
+    {
+      "id": 68,
+      "url": "http://localhost:1337/pokemon/68/",
+      "sprite": "http://localhost:1337/sprites/68.png",
+      "name": "machamp",
+      "info": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles."
+    },
+    {
+      "id": 69,
+      "url": "http://localhost:1337/pokemon/69/",
+      "sprite": "http://localhost:1337/sprites/69.png",
+      "name": "bellsprout",
+      "info": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them."
+    },
+    {
+      "id": 70,
+      "url": "http://localhost:1337/pokemon/70/",
+      "sprite": "http://localhost:1337/sprites/70.png",
+      "name": "weepinbell",
+      "info": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids."
+    },
+    {
+      "id": 71,
+      "url": "http://localhost:1337/pokemon/71/",
+      "sprite": "http://localhost:1337/sprites/71.png",
+      "name": "victreebel",
+      "info": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
+    },
+    {
+      "id": 72,
+      "url": "http://localhost:1337/pokemon/72/",
+      "sprite": "http://localhost:1337/sprites/72.png",
+      "name": "tentacool",
+      "info": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey."
+    },
+    {
+      "id": 73,
+      "url": "http://localhost:1337/pokemon/73/",
+      "sprite": "http://localhost:1337/sprites/73.png",
+      "name": "tentacruel",
+      "info": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves."
+    },
+    {
+      "id": 74,
+      "url": "http://localhost:1337/pokemon/74/",
+      "sprite": "http://localhost:1337/sprites/74.png",
+      "name": "geodude",
+      "info": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry."
+    },
+    {
+      "id": 75,
+      "url": "http://localhost:1337/pokemon/75/",
+      "sprite": "http://localhost:1337/sprites/75.png",
+      "name": "graveler",
+      "info": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid."
+    },
+    {
+      "id": 76,
+      "url": "http://localhost:1337/pokemon/76/",
+      "sprite": "http://localhost:1337/sprites/76.png",
+      "name": "golem",
+      "info": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air."
+    },
+    {
+      "id": 77,
+      "url": "http://localhost:1337/pokemon/77/",
+      "sprite": "http://localhost:1337/sprites/77.png",
+      "name": "ponyta",
+      "info": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger."
+    },
+    {
+      "id": 78,
+      "url": "http://localhost:1337/pokemon/78/",
+      "sprite": "http://localhost:1337/sprites/78.png",
+      "name": "rapidash",
+      "info": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind."
+    },
+    {
+      "id": 79,
+      "url": "http://localhost:1337/pokemon/79/",
+      "sprite": "http://localhost:1337/sprites/79.png",
+      "name": "slowpoke",
+      "info": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either."
+    },
+    {
+      "id": 80,
+      "url": "http://localhost:1337/pokemon/80/",
+      "sprite": "http://localhost:1337/sprites/80.png",
+      "name": "slowbro",
+      "info": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream."
+    },
+    {
+      "id": 81,
+      "url": "http://localhost:1337/pokemon/81/",
+      "sprite": "http://localhost:1337/sprites/81.png",
+      "name": "magnemite",
+      "info": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again."
+    },
+    {
+      "id": 82,
+      "url": "http://localhost:1337/pokemon/82/",
+      "sprite": "http://localhost:1337/sprites/82.png",
+      "name": "magneton",
+      "info": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings."
+    },
+    {
+      "id": 83,
+      "url": "http://localhost:1337/pokemon/83/",
+      "sprite": "http://localhost:1337/sprites/83.png",
+      "name": "farfetchd",
+      "info": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food."
+    },
+    {
+      "id": 84,
+      "url": "http://localhost:1337/pokemon/84/",
+      "sprite": "http://localhost:1337/sprites/84.png",
+      "name": "doduo",
+      "info": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs."
+    },
+    {
+      "id": 85,
+      "url": "http://localhost:1337/pokemon/85/",
+      "sprite": "http://localhost:1337/sprites/85.png",
+      "name": "dodrio",
+      "info": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies."
+    },
+    {
+      "id": 86,
+      "url": "http://localhost:1337/pokemon/86/",
+      "sprite": "http://localhost:1337/sprites/86.png",
+      "name": "seel",
+      "info": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit."
+    },
+    {
+      "id": 87,
+      "url": "http://localhost:1337/pokemon/87/",
+      "sprite": "http://localhost:1337/sprites/87.png",
+      "name": "dewgong",
+      "info": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+    },
+    {
+      "id": 88,
+      "url": "http://localhost:1337/pokemon/88/",
+      "sprite": "http://localhost:1337/sprites/88.png",
+      "name": "grimer",
+      "info": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path."
+    },
+    {
+      "id": 89,
+      "url": "http://localhost:1337/pokemon/89/",
+      "sprite": "http://localhost:1337/sprites/89.png",
+      "name": "muk",
+      "info": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
+    },
+    {
+      "id": 90,
+      "url": "http://localhost:1337/pokemon/90/",
+      "sprite": "http://localhost:1337/sprites/90.png",
+      "name": "shellder",
+      "info": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast."
+    },
+    {
+      "id": 91,
+      "url": "http://localhost:1337/pokemon/91/",
+      "sprite": "http://localhost:1337/sprites/91.png",
+      "name": "cloyster",
+      "info": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking."
+    },
+    {
+      "id": 92,
+      "url": "http://localhost:1337/pokemon/92/",
+      "sprite": "http://localhost:1337/sprites/92.png",
+      "name": "gastly",
+      "info": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+    },
+    {
+      "id": 93,
+      "url": "http://localhost:1337/pokemon/93/",
+      "sprite": "http://localhost:1337/sprites/93.png",
+      "name": "haunter",
+      "info": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes."
+    },
+    {
+      "id": 94,
+      "url": "http://localhost:1337/pokemon/94/",
+      "sprite": "http://localhost:1337/sprites/94.png",
+      "name": "gengar",
+      "info": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing."
+    },
+    {
+      "id": 95,
+      "url": "http://localhost:1337/pokemon/95/",
+      "sprite": "http://localhost:1337/sprites/95.png",
+      "name": "onix",
+      "info": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid."
+    },
+    {
+      "id": 96,
+      "url": "http://localhost:1337/pokemon/96/",
+      "sprite": "http://localhost:1337/sprites/96.png",
+      "name": "drowzee",
+      "info": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+    },
+    {
+      "id": 97,
+      "url": "http://localhost:1337/pokemon/97/",
+      "sprite": "http://localhost:1337/sprites/97.png",
+      "name": "hypno",
+      "info": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
+    },
+    {
+      "id": 98,
+      "url": "http://localhost:1337/pokemon/98/",
+      "sprite": "http://localhost:1337/sprites/98.png",
+      "name": "krabby",
+      "info": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets."
+    },
+    {
+      "id": 99,
+      "url": "http://localhost:1337/pokemon/99/",
+      "sprite": "http://localhost:1337/sprites/99.png",
+      "name": "kingler",
+      "info": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move."
+    },
+    {
+      "id": 100,
+      "url": "http://localhost:1337/pokemon/100/",
+      "sprite": "http://localhost:1337/sprites/100.png",
+      "name": "voltorb",
+      "info": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus."
+    },
+    {
+      "id": 101,
+      "url": "http://localhost:1337/pokemon/101/",
+      "sprite": "http://localhost:1337/sprites/101.png",
+      "name": "electrode",
+      "info": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion."
+    },
+    {
+      "id": 102,
+      "url": "http://localhost:1337/pokemon/102/",
+      "sprite": "http://localhost:1337/sprites/102.png",
+      "name": "exeggcute",
+      "info": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently."
+    },
+    {
+      "id": 103,
+      "url": "http://localhost:1337/pokemon/103/",
+      "sprite": "http://localhost:1337/sprites/103.png",
+      "name": "exeggutor",
+      "info": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another."
+    },
+    {
+      "id": 104,
+      "url": "http://localhost:1337/pokemon/104/",
+      "sprite": "http://localhost:1337/sprites/104.png",
+      "name": "cubone",
+      "info": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head."
+    },
+    {
+      "id": 105,
+      "url": "http://localhost:1337/pokemon/105/",
+      "sprite": "http://localhost:1337/sprites/105.png",
+      "name": "marowak",
+      "info": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon."
+    },
+    {
+      "id": 106,
+      "url": "http://localhost:1337/pokemon/106/",
+      "sprite": "http://localhost:1337/sprites/106.png",
+      "name": "hitmonlee",
+      "info": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position."
+    },
+    {
+      "id": 107,
+      "url": "http://localhost:1337/pokemon/107/",
+      "sprite": "http://localhost:1337/sprites/107.png",
+      "name": "hitmonchan",
+      "info": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn."
+    },
+    {
+      "id": 108,
+      "url": "http://localhost:1337/pokemon/108/",
+      "sprite": "http://localhost:1337/sprites/108.png",
+      "name": "lickitung",
+      "info": "If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either."
+    },
+    {
+      "id": 109,
+      "url": "http://localhost:1337/pokemon/109/",
+      "sprite": "http://localhost:1337/sprites/109.png",
+      "name": "koffing",
+      "info": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash."
+    },
+    {
+      "id": 110,
+      "url": "http://localhost:1337/pokemon/110/",
+      "sprite": "http://localhost:1337/sprites/110.png",
+      "name": "weezing",
+      "info": "It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day."
+    },
+    {
+      "id": 111,
+      "url": "http://localhost:1337/pokemon/111/",
+      "sprite": "http://localhost:1337/sprites/111.png",
+      "name": "rhyhorn",
+      "info": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles."
+    },
+    {
+      "id": 112,
+      "url": "http://localhost:1337/pokemon/112/",
+      "sprite": "http://localhost:1337/sprites/112.png",
+      "name": "rhydon",
+      "info": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn."
+    },
+    {
+      "id": 113,
+      "url": "http://localhost:1337/pokemon/113/",
+      "sprite": "http://localhost:1337/sprites/113.png",
+      "name": "chansey",
+      "info": "The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient."
+    },
+    {
+      "id": 114,
+      "url": "http://localhost:1337/pokemon/114/",
+      "sprite": "http://localhost:1337/sprites/114.png",
+      "name": "tangela",
+      "info": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery."
+    },
+    {
+      "id": 115,
+      "url": "http://localhost:1337/pokemon/115/",
+      "sprite": "http://localhost:1337/sprites/115.png",
+      "name": "kangaskhan",
+      "info": "Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs."
+    },
+    {
+      "id": 116,
+      "url": "http://localhost:1337/pokemon/116/",
+      "sprite": "http://localhost:1337/sprites/116.png",
+      "name": "horsea",
+      "info": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes."
+    },
+    {
+      "id": 117,
+      "url": "http://localhost:1337/pokemon/117/",
+      "sprite": "http://localhost:1337/sprites/117.png",
+      "name": "seadra",
+      "info": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison."
+    },
+    {
+      "id": 118,
+      "url": "http://localhost:1337/pokemon/118/",
+      "sprite": "http://localhost:1337/sprites/118.png",
+      "name": "goldeen",
+      "info": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer."
+    },
+    {
+      "id": 119,
+      "url": "http://localhost:1337/pokemon/119/",
+      "sprite": "http://localhost:1337/sprites/119.png",
+      "name": "seaking",
+      "info": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+    },
+    {
+      "id": 120,
+      "url": "http://localhost:1337/pokemon/120/",
+      "sprite": "http://localhost:1337/sprites/120.png",
+      "name": "staryu",
+      "info": "If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm."
+    },
+    {
+      "id": 121,
+      "url": "http://localhost:1337/pokemon/121/",
+      "sprite": "http://localhost:1337/sprites/121.png",
+      "name": "starmie",
+      "info": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers."
+    },
+    {
+      "id": 122,
+      "url": "http://localhost:1337/pokemon/122/",
+      "sprite": "http://localhost:1337/sprites/122.png",
+      "name": "mr-mime",
+      "info": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming."
+    },
+    {
+      "id": 123,
+      "url": "http://localhost:1337/pokemon/123/",
+      "sprite": "http://localhost:1337/sprites/123.png",
+      "name": "scyther",
+      "info": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree."
+    },
+    {
+      "id": 124,
+      "url": "http://localhost:1337/pokemon/124/",
+      "sprite": "http://localhost:1337/sprites/124.png",
+      "name": "jynx",
+      "info": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+    },
+    {
+      "id": 125,
+      "url": "http://localhost:1337/pokemon/125/",
+      "sprite": "http://localhost:1337/sprites/125.png",
+      "name": "electabuzz",
+      "info": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant."
+    },
+    {
+      "id": 126,
+      "url": "http://localhost:1337/pokemon/126/",
+      "sprite": "http://localhost:1337/sprites/126.png",
+      "name": "magmar",
+      "info": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire."
+    },
+    {
+      "id": 127,
+      "url": "http://localhost:1337/pokemon/127/",
+      "sprite": "http://localhost:1337/sprites/127.png",
+      "name": "pinsir",
+      "info": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender."
+    },
+    {
+      "id": 128,
+      "url": "http://localhost:1337/pokemon/128/",
+      "sprite": "http://localhost:1337/sprites/128.png",
+      "name": "tauros",
+      "info": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed."
+    },
+    {
+      "id": 129,
+      "url": "http://localhost:1337/pokemon/129/",
+      "sprite": "http://localhost:1337/sprites/129.png",
+      "name": "magikarp",
+      "info": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world."
+    },
+    {
+      "id": 130,
+      "url": "http://localhost:1337/pokemon/130/",
+      "sprite": "http://localhost:1337/sprites/130.png",
+      "name": "gyarados",
+      "info": "It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets."
+    },
+    {
+      "id": 131,
+      "url": "http://localhost:1337/pokemon/131/",
+      "sprite": "http://localhost:1337/sprites/131.png",
+      "name": "lapras",
+      "info": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it."
+    },
+    {
+      "id": 132,
+      "url": "http://localhost:1337/pokemon/132/",
+      "sprite": "http://localhost:1337/sprites/132.png",
+      "name": "ditto",
+      "info": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+    },
+    {
+      "id": 133,
+      "url": "http://localhost:1337/pokemon/133/",
+      "sprite": "http://localhost:1337/sprites/133.png",
+      "name": "eevee",
+      "info": "It has the ability to alter the composition of its body to suit its surrounding environment."
+    },
+    {
+      "id": 134,
+      "url": "http://localhost:1337/pokemon/134/",
+      "sprite": "http://localhost:1337/sprites/134.png",
+      "name": "vaporeon",
+      "info": "When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours."
+    },
+    {
+      "id": 135,
+      "url": "http://localhost:1337/pokemon/135/",
+      "sprite": "http://localhost:1337/sprites/135.png",
+      "name": "jolteon",
+      "info": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes."
+    },
+    {
+      "id": 136,
+      "url": "http://localhost:1337/pokemon/136/",
+      "sprite": "http://localhost:1337/sprites/136.png",
+      "name": "flareon",
+      "info": "Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit."
+    },
+    {
+      "id": 137,
+      "url": "http://localhost:1337/pokemon/137/",
+      "sprite": "http://localhost:1337/sprites/137.png",
+      "name": "porygon",
+      "info": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming."
+    },
+    {
+      "id": 138,
+      "url": "http://localhost:1337/pokemon/138/",
+      "sprite": "http://localhost:1337/sprites/138.png",
+      "name": "omanyte",
+      "info": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about."
+    },
+    {
+      "id": 139,
+      "url": "http://localhost:1337/pokemon/139/",
+      "sprite": "http://localhost:1337/sprites/139.png",
+      "name": "omastar",
+      "info": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct."
+    },
+    {
+      "id": 140,
+      "url": "http://localhost:1337/pokemon/140/",
+      "sprite": "http://localhost:1337/sprites/140.png",
+      "name": "kabuto",
+      "info": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor."
+    },
+    {
+      "id": 141,
+      "url": "http://localhost:1337/pokemon/141/",
+      "sprite": "http://localhost:1337/sprites/141.png",
+      "name": "kabutops",
+      "info": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids."
+    },
+    {
+      "id": 142,
+      "url": "http://localhost:1337/pokemon/142/",
+      "sprite": "http://localhost:1337/sprites/142.png",
+      "name": "aerodactyl",
+      "info": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber."
+    },
+    {
+      "id": 143,
+      "url": "http://localhost:1337/pokemon/143/",
+      "sprite": "http://localhost:1337/sprites/143.png",
+      "name": "snorlax",
+      "info": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep."
+    },
+    {
+      "id": 144,
+      "url": "http://localhost:1337/pokemon/144/",
+      "sprite": "http://localhost:1337/sprites/144.png",
+      "name": "articuno",
+      "info": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow."
+    },
+    {
+      "id": 145,
+      "url": "http://localhost:1337/pokemon/145/",
+      "sprite": "http://localhost:1337/sprites/145.png",
+      "name": "zapdos",
+      "info": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down."
+    },
+    {
+      "id": 146,
+      "url": "http://localhost:1337/pokemon/146/",
+      "sprite": "http://localhost:1337/sprites/146.png",
+      "name": "moltres",
+      "info": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red."
+    },
+    {
+      "id": 147,
+      "url": "http://localhost:1337/pokemon/147/",
+      "sprite": "http://localhost:1337/sprites/147.png",
+      "name": "dratini",
+      "info": "Long thought to be a myth, this Pokémon’s existence was only recently confirmed by a fisherman who caught one."
+    },
+    {
+      "id": 148,
+      "url": "http://localhost:1337/pokemon/148/",
+      "sprite": "http://localhost:1337/sprites/148.png",
+      "name": "dragonair",
+      "info": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look."
+    },
+    {
+      "id": 149,
+      "url": "http://localhost:1337/pokemon/149/",
+      "sprite": "http://localhost:1337/sprites/149.png",
+      "name": "dragonite",
+      "info": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors."
+    },
+    {
+      "id": 150,
+      "url": "http://localhost:1337/pokemon/150/",
+      "sprite": "http://localhost:1337/sprites/150.png",
+      "name": "mewtwo",
+      "info": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different."
+    },
+    {
+      "id": 151,
+      "url": "http://localhost:1337/pokemon/151/",
+      "sprite": "http://localhost:1337/sprites/151.png",
+      "name": "mew",
+      "info": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen."
+    }
+  ]
+}
