@@ -4,6 +4,7 @@ import Footer from './Components/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Views/Home';
 import About from './Views/About';
+import Pokemon from './Views/Pokemon';
 
 const styles = {
   container: {
@@ -22,10 +23,13 @@ function App() {
         <Header />
         <Switch>
           <Route exact path='/'>
-            <Home/>
+            <Home />
           </Route>
           <Route path='/about'>
-            <About/>
+            <About />
+          </Route>
+          <Route path='/pokemon/:id'>
+            <Pokemon />
           </Route>
         </Switch>
         <Footer />

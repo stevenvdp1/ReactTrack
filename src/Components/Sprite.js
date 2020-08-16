@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const styles = {
     sprite: {
@@ -8,7 +9,9 @@ const styles = {
 }
 function Sprite(props) {
     return (
-        <img style={styles.sprite} src={props.sprite} alt={props.id} />
+        <Link to={`/pokemon/${props.id}`}>
+            <img style={styles.sprite} src={props.sprite} alt={props.id} />
+        </Link>
     )
 }
 
