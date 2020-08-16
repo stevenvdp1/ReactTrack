@@ -3,7 +3,7 @@ import React from 'react'
 const styles = {
     container:{
         borderTop:'solid black 1px',
-        height:'50px',
+        minHeight:'50px',
         backgroundColor:'lightGrey',
         display:'flex',
         alignItems:'center',

@@ -3,7 +3,7 @@ import React from 'react'
 function About(){
     return(
         <div>
-            AboutPage
+            React tutorial by Steven Van de Poel
         </div>
     )
 }

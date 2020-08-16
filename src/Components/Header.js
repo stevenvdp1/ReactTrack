@@ -4,7 +4,7 @@ import Navigation from './Navigation'
 const styles = {
     container:{
         borderBottom:'solid black 2px',
-        height:'50px',
+        minHeight:'50px',
         display:'flex',
         alignItems:'center',
         justifyContent:'space-between',
